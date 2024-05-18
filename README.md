@@ -1,11 +1,14 @@
 # Advanced Prompt Engineering Techniques
+
 This is the repository for the LinkedIn Learning course Advanced Prompt Engineering Techniques. The full course is available from [LinkedIn Learning][URL-lil-course].
 
 ![Advanced Prompt Engineering Techniques][URL-lil-thumbnail]
 
 When developing AI-powered applications, you move beyond conversational prompting to more advanced strategies. In this course we’ll explore advanced prompting techniques and strategies like Chain-of-Thought and Tree-of-Thought, clarifying how they work, what sets them apart, and what they are for.
 
+
 ## Instructions
+
 This repository has a folder `/prompts/` containing prompt examples from the course you can copy-and-paste into your preferred AI tool including ChatGPT and Claude. Each example is named for the chapter, video number, and technique it represents. Some videos may have multiple examples.
 
 There is also a single file `links.md` containing relevant links to academic papers and practical examples explaining the various techniques demonstrated in more detail. While not required reading, they are a good reference if you want a deeper understanding of how these techniques emerged and how they are tested.
